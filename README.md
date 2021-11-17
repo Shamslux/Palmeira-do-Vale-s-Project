@@ -31,3 +31,5 @@ After the OLTP -> OLAP phases, we connected the treated data from the DW into th
 
 - Again my many thanks to my friend Tulio Brasileiro!
 - Anyone wishing to check the files and study with that feel free! Just keep in mind that the scripts' commentaries are in my native language (Brazilian Portuguese) and not in English! 
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
